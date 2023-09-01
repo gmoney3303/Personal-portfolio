@@ -1,5 +1,6 @@
 # Personal-portfolio
-
+## deployed link
+https://gmoney3303.github.io/Personal-portfolio/
 ## Description
 
 this project is a website of my own personal portfolio. It will explain a little about me then it will give a list of my projects and contact info.
@@ -15,13 +16,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 ![alt text](assets/images/personal.PNG)
 
 ## Credits

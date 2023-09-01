@@ -35,7 +35,9 @@ border-left: var(--dark);
   position: absolute;
   bottom: 18px;
   left: 16px;
-  color: var(--greener);
+  color: var(--blue);
+  font-size: 200%;
+  background-color: var(--grey);
 }
 /* .boxes{
   position:relative;

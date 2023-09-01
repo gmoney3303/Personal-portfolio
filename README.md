@@ -9,11 +9,6 @@ to go to an external link on my work. I learned a lot more on how to structure w
 Another thing I learned is to better sketch things out I used way more divs than I thought I would and had to add them in after I had already wrote a lot of code causing thimgs to get messy.
 
 
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
 
@@ -29,28 +24,14 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+Mit license
 
 ## Features
 
 hoverable images that also have links they lead to when clicked on.
 clicking on the "about me,work" in the top right will dirrect you to that part of the page.
 
-## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
 
 
 [def]: assets/images/personal.PNG
